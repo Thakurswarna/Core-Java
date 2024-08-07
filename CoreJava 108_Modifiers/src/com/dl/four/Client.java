@@ -1,0 +1,9 @@
+package com.dl.four;
+
+public class Client {
+public static void main(String[] args) {
+	PImp pro=new PImp();
+	System.out.println(pro.Product_ID);
+	System.out.println(pro.Product_Name);
+}
+}
